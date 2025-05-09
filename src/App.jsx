@@ -43,7 +43,7 @@ function App() {
           </Typography>
 
           <TextField
-            label="Digite o nome da cidade"
+            label="Digite o nome da cidade ou CEP"
             variant="outlined"
             fullWidth
             value={city}
